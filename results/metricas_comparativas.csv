@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1-Score,Tiempo Promedio (s/res)
+RoBERTuito,0.8,0.8632,0.8,0.7438,0.01174
+BETO-Sentiment,0.8,0.8019,0.8,0.7726,0.00249
+XLM-RoBERTa-Sentiment,0.7667,0.7208,0.7667,0.7131,0.00272

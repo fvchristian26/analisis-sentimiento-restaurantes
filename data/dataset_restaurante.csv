@@ -1,0 +1,31 @@
+comentario,sentimiento
+"El restaurante es excelente, la comida tiene un sazón increíble y el servicio fue rápido.",POS
+"La experiencia fue terrible, la comida llegó fría y el mesero fue grosero. No volvería jamás.",NEG
+"El ambiente del lugar es agradable y tranquilo, aunque los platillos son algo costosos para lo que ofrecen.",NEU
+"Un lugar excepcional para cenar en pareja, los postres son deliciosos y la atención sobresaliente.",POS
+"Pésima organización, tardaron más de una hora en darnos una mesa y la comida no tenía sabor.",NEG
+"El servicio estuvo bien, nada extraordinario, pero cumple para una comida rápida.",NEU
+Me encantó la presentación de los platos y la amabilidad del personal. ¡Muy recomendable!,POS
+"La relación calidad-precio es muy mala, porciones pequeñas y precios exagerados.",NEG
+"Un espacio muy acogedor, limpio y con una carta de vinos excelente.",POS
+"No me gustó para nada, la música estaba muy alta y la comida me cayó pesada.",NEG
+La comida estuvo deliciosa y el tiempo de espera fue mínimo. Volveremos pronto.,POS
+Pedimos varios platillos y todos estaban fríos. La atención de la recepcionista dejó mucho que desear.,NEG
+El menú es variado y los precios son aceptables. El café podría ser mejor.,NEU
+"Excelente lugar para desayunar en familia, las porciones son generosas y el sazón es buenísimo.",POS
+Muy mala higiene en el baño y las mesas estaban pegajosas. No lo recomiendo.,NEG
+"La sazón es impecable, de las mejores cortes de carne que he probado en la ciudad.",POS
+"La atención del personal es muy atenta, aunque el parqueo es muy reducido y complicado.",NEU
+Llegamos a la hora de la reserva y nuestra mesa no estaba lista. Esperamos 40 minutos extra.,NEG
+Los tacos y las salsas tienen un sabor espectacular. El precio vale totalmente la pena.,POS
+"Normal, la comida no destaca pero el lugar es cómodo para platicar un rato.",NEU
+Definitivamente uno de mis lugares favoritos. La pasta alfredo es exquisita.,POS
+Se equivocaron dos veces con nuestra orden y el mesero se mostró molesto cuando se lo señalamos.,NEG
+Tienen buenas opciones vegetarianas y el jugo natural estaba muy fresco.,POS
+"Un restaurante promedio, ideal si buscas algo rápido para almorzar sin grandes expectativas.",NEU
+La ambientación con música en vivo le da un toque fantástico a la velada. 10/10.,POS
+Los precios aumentaron considerablemente y la calidad de los ingredientes bajó.,NEG
+"Servicio cordial, platillos bien presentados y un ambiente muy familiar.",POS
+Tardaron demasiado en traer la cuenta y la terminal bancaria falló varias veces.,NEG
+La sopa del día estaba increíblemente sabrosa y recién hecha.,POS
+"Las bebidas estaban bastante bien, aunque el platillo principal carecía de sal.",NEU
