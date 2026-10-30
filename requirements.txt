@@ -1,9 +1,4 @@
-pandas>=2.2.0
 scikit-learn
-transformers
-datasets
-evaluate
-accelerate
-sentencepiece
-huggingface_hub
-torch
+joblib
+numpy
+pandas
