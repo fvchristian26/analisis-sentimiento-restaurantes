@@ -1,5 +1,21 @@
 # Proyecto de Análisis de Sentimiento en Opiniones de Restaurantes
 
+
+# Práctica de Contenerización - Análisis de Sentimiento con Docker
+
+## 1. Descripción del Proyecto
+Este proyecto implementa un modelo de Machine Learning en Python para clasificar reseñas de restaurantes, empaquetado dentro de un contenedor Docker para garantizar su portabilidad y ejecución aislada.
+
+## 2. Estructura de Archivos
+- `simular.py`: Script principal que entrena automáticamente un modelo base (si no existe), lo serializa y ejecuta casos de prueba.
+- `Dockerfile`: Instrucciones para construir la imagen ligera basada en Python.
+- `requirements.txt`: Dependencias del proyecto (`scikit-learn`, `joblib`, etc.).
+
+## 3. Instrucciones de Construcción y Ejecución Local
+1. Construir la imagen de Docker:
+   ```bash
+   docker build -t analisis-sentimiento-docker .
+
 > **Clasificación automatizada de opiniones de comensales mediante modelos preentrenados de Hugging Face y aceleración por GPU.**
 
 ---
